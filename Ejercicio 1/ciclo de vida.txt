@@ -1,0 +1,26 @@
+Planificación
+La importante tarea a la hora de crear un producto de software es obtener los requisitos o el análisis de los requisitos. 
+Los clientes suelen tener una idea más bien abstracta del resultado final, pero no sobre las funciones que debería cumplir 
+el software.
+Una vez que se hayan recopilado los requisitos del cliente, se debe realizar un análisis del ámbito del desarrollo. 
+Este documento se conoce como especificación funcional.
+
+Implementación, pruebas y documentación
+La implementación es parte del proceso en el que los ingenieros de software programan el código para el proyecto de trabajo 
+que está en relación de las demanda del software, en esta etapa se realizan las pruebas de caja blanca y caja negra.
+Las pruebas de software son parte esencial del proceso de desarrollo del software. Esta parte del proceso tiene la función 
+de detectar los errores de software lo antes posible.
+La documentación del diseño interno del software con el objetivo de facilitar su mejora y su mantenimiento se realiza a lo 
+largo del proyecto. Esto puede incluir la documentación de un API, tanto interior como exterior. Prácticamente es como una 
+receta de cocina.
+
+Despliegue y mantenimiento[editar]
+El despliegue comienza cuando el código ha sido suficientemente probado, ha sido aprobado para su liberación y ha sido 
+distribuido en el entorno de producción.
+Entrenamiento y soporte para el software es de suma importancia y algo que muchos desarrolladores de software descuidan. 
+Los usuarios, por naturaleza, se oponen al cambio porque conlleva una cierta inseguridad, es por ello que es fundamental 
+instruir de forma adecuada a los futuros usuarios del software.
+El mantenimiento o mejora de un software con problemas recientemente desplegado, puede requerir más tiempo que el desarrollo 
+inicial del software. Es posible que haya que incorporar código que no se ajusta al diseño original con el objetivo de 
+solucionar un problema o ampliar la funcionalidad para un cliente. Si los costes de mantenimiento son muy elevados puede que 
+sea oportuno rediseñar el sistema para poder contener los costes de mantenimiento.

@@ -1,0 +1,9 @@
+Desarrollo iterativo y creciente (o incremental) es un proceso de desarrollo de software creado en 
+respuesta a las debilidades del modelo tradicional de cascada.
+
+Básicamente este modelo de desarrollo, que no es más que un conjunto de tareas agrupadas en pequeñas etapas 
+repetitivas (iteraciones), es uno de los más utilizados en los últimos tiempos ya que, como se relaciona con 
+novedosas estrategias de desarrollo de software y una programación extrema, es empleado en metodologías diversas.
+
+El modelo consta de diversas etapas de desarrollo en cada incremento, las cuales inician con el análisis y 
+finalizan con la instauración y aprobación del sistema.

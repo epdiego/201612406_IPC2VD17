@@ -1,0 +1,9 @@
+METODOLOGIA DE CASCADA
+
+En Ingeniería de software el desarrollo en cascada, también llamado modelo en cascada 
+(denominado así por la posición de las fases en el desarrollo de esta, que parecen caer en cascada 
+“por gravedad” hacia las siguientes fases), es el enfoque metodológico que ordena rigurosamente las 
+etapas del proceso para el desarrollo de software, de tal forma que el inicio de cada etapa debe esperar
+ a la finalización de la etapa anterior.? Al final de cada etapa, el modelo está diseñado para llevar a
+ cabo una revisión final, que se encarga de determinar si el proyecto está listo para avanzar a la 
+siguiente fase. Este modelo fue el primero en originarse y es la base de todos los demás modelos de ciclo de vida.
