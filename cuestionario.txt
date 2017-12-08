@@ -1,0 +1,7 @@
+1) Al practicar lo anterior pude entender que un commit es una version editada del proyecto que se esta 
+   trabajando.
+
+2)segun una pequeña investigacion realizada por mi, conclui en que se trata de un algoritmo de 
+  ordenamiento externo.
+
+3)Push es para subir los cambios y push es para obtenerlos descargandolos
